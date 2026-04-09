@@ -18,7 +18,7 @@ Tudo salvo de verdade no MySQL — feche o programa, abra de novo, os dados cont
 
 ## Tecnologias
 
-- **Java 17+**
+- **Java 25**
 - **MySQL** via XAMPP
 - **JDBC** para comunicação com o banco
 - **Padrão DAO** para separar a lógica de acesso a dados
