@@ -1,5 +1,6 @@
 # Sistema de Gerenciamento de Produtos
 Este projeto foi desenvolvido como prática inicial em Java e banco de dados.
+
 Objetivo: entender operações CRUD e integração com SQL.
 
 Um sistema CRUD de gerenciamento de produtos desenvolvido em Java, com menu interativo no terminal. Foi meu primeiro projeto conectando Java a um banco de dados real — e aprendi bastante no processo.
